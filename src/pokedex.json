@@ -1,0 +1,137 @@
+[
+  {
+    "name": "bulbasaur",
+    "dex": 1,
+    "version": "firered",
+    "height": 7,
+    "weight": 69,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+  },
+  {
+    "name": "ivysaur",
+    "dex": 2,
+    "version": "firered",
+    "height": 10,
+    "weight": 130,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+  },
+  {
+    "name": "venusaur",
+    "dex": 3,
+    "version": "firered",
+    "height": 20,
+    "weight": 1000,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+  },
+  {
+    "name": "charmander",
+    "dex": 4,
+    "version": "firered",
+    "height": 6,
+    "weight": 85,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+  },
+  {
+    "name": "charmeleon",
+    "dex": 5,
+    "version": "firered",
+    "height": 11,
+    "weight": 190,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+  },
+  {
+    "name": "charizard",
+    "dex": 6,
+    "version": "firered",
+    "height": 17,
+    "weight": 905,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
+  },
+  {
+    "name": "squirtle",
+    "dex": 7,
+    "version": "firered",
+    "height": 5,
+    "weight": 90,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png"
+  },
+  {
+    "name": "wartortle",
+    "dex": 8,
+    "version": "firered",
+    "height": 10,
+    "weight": 225,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png"
+  },
+  {
+    "name": "blastoise",
+    "dex": 9,
+    "version": "firered",
+    "height": 16,
+    "weight": 855,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png"
+  },
+  {
+    "name": "caterpie",
+    "dex": 10,
+    "version": "firered",
+    "height": 3,
+    "weight": 29,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png"
+  },
+  {
+    "name": "metapod",
+    "dex": 11,
+    "version": "firered",
+    "height": 7,
+    "weight": 99,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png"
+  },
+  {
+    "name": "butterfree",
+    "dex": 12,
+    "version": "firered",
+    "height": 11,
+    "weight": 320,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png"
+  },
+  {
+    "name": "weedle",
+    "dex": 13,
+    "version": "firered",
+    "height": 3,
+    "weight": 32,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png"
+  },
+  {
+    "name": "kakuna",
+    "dex": 14,
+    "version": "firered",
+    "height": 6,
+    "weight": 100,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png"
+  },
+  {
+    "name": "beedrill",
+    "dex": 15,
+    "version": "firered",
+    "height": 10,
+    "weight": 295,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png"
+  }
+]

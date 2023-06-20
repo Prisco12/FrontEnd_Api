@@ -1,0 +1,37 @@
+body {
+    font-family: 'Pokemon', sans-serif;
+    text-align: center;
+                                                
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    border-radius: 0.3cm;
+    background-color: rgb(82, 82, 82);
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+.textos {
+    border-radius: 0.3cm;
+    background-color: rgb(119, 119, 119);
+    color: white;
+    padding: 10px;
+}
+
+.textos p::first-letter, h2::first-letter {
+    text-transform: uppercase;
+  }
